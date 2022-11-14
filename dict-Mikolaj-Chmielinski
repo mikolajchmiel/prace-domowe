@@ -1,0 +1,23 @@
+
+
+#my_dict = {key, value}
+
+my_dict = {'Canada': 'Justin_Trudeau',
+           'France': 'Emmanuel_Macron',
+           'Italy': 'Giorgia_Meloni',
+           'United_States': 'Joe_Biden',
+           'Germany': 'Olaf_Scholz',
+           'Japan': 'Fumio_Kishida',
+           'United_Kingdon': 'Rishi_Sunak',}
+
+if __name__ == '__main__':
+    for key, value in my_dict.items():
+        print(key, ':', value)
+
+
+
+
+
+#ze słownika wydrukować klucz i wartość, żeby wychodziła klucz-wartość, klucz-wartość w osobnych linijkach - zadanie domowe
+
+
